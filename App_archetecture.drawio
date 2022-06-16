@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-06-16T08:37:50.707Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="nDTdt0_T_sPuPbT-6Fgz" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-16T09:27:53.024Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="M93xSsAuSQcocLmdRsd9" version="20.0.1" type="github">
   <diagram id="LA7DwMHQrcBXAJ70xlw_" name="Page-1">
     <mxGraphModel dx="3040" dy="1577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="cuau8KQ6iFsl0b31It4q-1" value="Main Window" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="25" width="1060" height="765" as="geometry" />
+          <mxGeometry x="-820" y="10" width="1060" height="765" as="geometry" />
         </mxCell>
         <mxCell id="cuau8KQ6iFsl0b31It4q-8" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="910" y="10" width="1540" height="1130" as="geometry" />
@@ -29,31 +29,91 @@
           <mxGeometry x="356" y="650" width="1168" height="464" as="geometry" />
         </mxCell>
         <mxCell id="cuau8KQ6iFsl0b31It4q-9" value="Accordition Control&lt;br&gt;Menu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="120" width="200" height="420" as="geometry" />
+          <mxGeometry x="-820" y="105" width="200" height="420" as="geometry" />
         </mxCell>
         <mxCell id="cuau8KQ6iFsl0b31It4q-10" value="앱 icon 및 오늘 날짜 표시" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="50" width="200" height="70" as="geometry" />
+          <mxGeometry x="-820" y="35" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="cuau8KQ6iFsl0b31It4q-11" value="메뉴 아이콘&lt;br&gt;기본정보 / 거래등록 / 재고 / 입고/출고 / 영업정보 / 거래처" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="50" width="860" height="70" as="geometry" />
+          <mxGeometry x="-620" y="35" width="860" height="70" as="geometry" />
         </mxCell>
         <mxCell id="cuau8KQ6iFsl0b31It4q-12" value="Pinned Tab" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
-          <mxGeometry y="120" width="860" height="670" as="geometry" />
+          <mxGeometry x="-620" y="105" width="860" height="670" as="geometry" />
         </mxCell>
         <mxCell id="cuau8KQ6iFsl0b31It4q-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="120" width="790" height="30" as="geometry" />
+          <mxGeometry x="-550" y="105" width="790" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cuau8KQ6iFsl0b31It4q-14" value="Main data List" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
-          <mxGeometry y="150" width="860" height="390" as="geometry" />
+          <mxGeometry x="-620" y="135" width="860" height="390" as="geometry" />
         </mxCell>
         <mxCell id="cuau8KQ6iFsl0b31It4q-15" value="Sub data List" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
-          <mxGeometry y="540" width="860" height="250" as="geometry" />
+          <mxGeometry x="-620" y="525" width="860" height="250" as="geometry" />
         </mxCell>
         <mxCell id="cuau8KQ6iFsl0b31It4q-16" value="퀵 메뉴 (자주쓰는 메뉴)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="540" width="200" height="250" as="geometry" />
+          <mxGeometry x="-820" y="525" width="200" height="250" as="geometry" />
         </mxCell>
         <mxCell id="cuau8KQ6iFsl0b31It4q-17" value="Sub data Detail" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
-          <mxGeometry x="650" y="540" width="210" height="250" as="geometry" />
+          <mxGeometry x="30" y="525" width="210" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="cuau8KQ6iFsl0b31It4q-18" value="View" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="870" width="770" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="cuau8KQ6iFsl0b31It4q-19" value="Menu view" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-670" y="910" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="cuau8KQ6iFsl0b31It4q-20" value="Accordition control XAML&lt;br&gt;dxa:AccordionControl&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-660" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cuau8KQ6iFsl0b31It4q-21" value="Menu ICON ribbon" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="910" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="cuau8KQ6iFsl0b31It4q-23" value="Ribon control&lt;br&gt;XAML&lt;br&gt;dxr:RibbonControl&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="945" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cuau8KQ6iFsl0b31It4q-24" value="Pinned Tab (dx:DXTabControl )" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="120" y="850" width="760" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="cuau8KQ6iFsl0b31It4q-25" value="Data List view for 2 frames" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="130" y="880" width="160" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="cuau8KQ6iFsl0b31It4q-26" value="Main Data List View" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="140" y="910" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cuau8KQ6iFsl0b31It4q-27" value="Basic info View&lt;br&gt;dxg:GridControl" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="940" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cuau8KQ6iFsl0b31It4q-29" value="Basic info View" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="530" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cuau8KQ6iFsl0b31It4q-30" value="Basic info View" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="540" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cuau8KQ6iFsl0b31It4q-31" value="Basic info View" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="550" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cuau8KQ6iFsl0b31It4q-32" value="Basic info View" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="560" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cuau8KQ6iFsl0b31It4q-33" value="Basic info View" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="570" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cuau8KQ6iFsl0b31It4q-34" value="Basic info View" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="580" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cuau8KQ6iFsl0b31It4q-35" value="Basic info View" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="690" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cuau8KQ6iFsl0b31It4q-36" value="Sub Data List View" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1020" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cuau8KQ6iFsl0b31It4q-37" value="Basic info View&lt;br&gt;dxg:GridControl" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="1050" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cuau8KQ6iFsl0b31It4q-38" value="Main Data List View" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="560" y="640" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cuau8KQ6iFsl0b31It4q-39" value="Basic info View&lt;br&gt;dxg:GridControl" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="670" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
